@@ -304,7 +304,7 @@ body {
 
 /* Ícone de "check" antes de cada item da lista */
 .servico-card ul li::before {
-    content: '\bx2713'; /* Unicode para checkmark */
+    content: '\2713'; /* Unicode para checkmark */
     font-family: boxicons;
     color: var(--main-color);
     margin-right: 1rem;
